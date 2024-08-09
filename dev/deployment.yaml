@@ -16,4 +16,4 @@ spec:
       - name: myapp
         image: quay.io/gauravkumar9130/production:v1
         ports:
-        - containerPort: 8080
+        - containerPort: 80
